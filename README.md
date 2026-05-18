@@ -89,7 +89,7 @@ https://github.com/DevCaio07/PortfolioHUB
 
 ## LinkedIn
 ```txt
-https://linkedin.com/
+[https://linkedin.com/](https://www.linkedin.com/in/caiofernandoguimaraes/)
 ```
 
 ---
